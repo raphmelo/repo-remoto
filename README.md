@@ -1,3 +1,3 @@
 # repo-remoto
 
-comentario feito antes do clone 
+comentario feito depois do clone 
